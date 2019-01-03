@@ -1,0 +1,23 @@
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+
+.categorylink {
+  color:#000 !important;
+}
+
+.categorylink:hover{
+  text-decoration: none;
+}
+
+.imgcategory {
+  width:100%;
+  height:200px;
+}
+
+.imghowitworks{
+    width:100%;
+    height:200px;
+    border-radius:50%;
+}
